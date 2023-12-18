@@ -1,3 +1,3 @@
-# Modulo-ia-implementacioin-algoritmos
+# ApacheBeam-Trolls-Messages-IA
 
-Módulo IA implementación algoritmos Keepcoding
+  Uso de apache beam para detectar mensajes trolls usando inteligencia artificial
